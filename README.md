@@ -1,7 +1,7 @@
-# mba-fiap-apis
+# Parte 1 - Cadastro de Usuários
 Projeto final para a disciplina de desenvolvimento de Microsserviços e APIs
 
-## Parte 1 - Cadastro de Usuários
+[Postman Collection para testes](https://github.com/rafael-pa/mba-fiap-apis/blob/master/Projeto%20final%20-%20parte%201.postman_collection.json)
 
 ### /api/usuarios (GET)
 - Retorno: lista de usuários cadastrados
